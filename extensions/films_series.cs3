@@ -1,0 +1,12 @@
+{
+  "name": "SassoStream VF+",
+  "description": "Films, séries, animés, dramas, chaînes TV françaises VF/VOSTFR, toujours à jour. Torrents, YouTube et plateformes populaires intégrés. Contact Telegram @samsonytb2",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "extensions/films_series.cs3",
+    "extensions/animes.cs3",
+    "extensions/dramas.cs3",
+    "extensions/tv.cs3",
+    "extensions/youtube.cs3"
+  ]
+}
